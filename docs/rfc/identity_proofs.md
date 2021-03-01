@@ -166,6 +166,7 @@ account)` as inferred from the source it was retrieved from.
    following are true:
 
    5.1 the document's `delegations` at `revision` contain `public-key`
+   
    5.2 the document at `revision` contains a claim for `(SERVICE, account)`, and
        the claim is not expired as described in 4.3
 
