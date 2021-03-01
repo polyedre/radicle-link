@@ -228,7 +228,7 @@ We thus RECOMMEND to either:
 
 [ids]: ../spec/sections/002-identities/index.md
 [wot]: https://en.wikipedia.org/wiki/Web_of_trust
-[keybase]: https://keybase.io
+[keybase]: https://book.keybase.io/account#proofs
 [tt]: https://en.wikipedia.org/wiki/Turing_test
 [keybase-stellar]: https://book.keybase.io/docs/server/stellar
 [ceramic]: https://github.com/ceramicnetwork/ceramic/blob/master/SPECIFICATION.md#blockchain-anchoring
