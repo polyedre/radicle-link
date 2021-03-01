@@ -156,7 +156,9 @@ account)` as inferred from the source it was retrieved from.
    ref points to). The proof is rejected if one of the following is true:
 
    4.1 `root` does not match
+   
    4.2 the document does not contain a claim for `(SERVICE, account)`
+   
    4.3 the document contains a claim for `(SERVICE, account)`, has an
        `expiration`, and `expiration.expires` is smaller than `time() -
        expiration.created`
